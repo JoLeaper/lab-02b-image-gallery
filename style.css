@@ -3,5 +3,10 @@ body {
 }
 
 li {
-  list-style:none;
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  flex-wrap: row;
 }
